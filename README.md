@@ -1,4 +1,2 @@
 # hello-world1
-
-Всем привет, решила познакомиться с GitHub после того, как нашла тут библиотеки для altium designer. Пробую пользоваться альтиумом.
-
+another one first repository
